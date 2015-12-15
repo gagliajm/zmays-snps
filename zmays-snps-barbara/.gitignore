@@ -1,0 +1,3 @@
+data/seqs/*.fastq
+
+#this is the gitignore file pg 81
